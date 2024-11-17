@@ -34,6 +34,7 @@ The primary goals of this project are:
 - Jupyter Notebook: This is for exploratory data analysis and visualizations.
 
 **Visualizations**
+
 Here are some examples of insights derived from the data:
 1. Total Revenue by Genre:
    - Action and Adventure genres generate the highest revenue.
@@ -61,6 +62,7 @@ Here are some examples of insights derived from the data:
    ```
 
 **Contact**
+
 If you have any questions or feedback, feel free to reach out:
 - Email: devickyboss@gmail.com
 - GitHub: https://github.com/debosli
