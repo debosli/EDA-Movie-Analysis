@@ -46,7 +46,7 @@ How to Run This Project
 1. Clone this repository:
    ```git clone https://github.com/username/movie-analysis-portfolio.git```
 2. Navigate to the project directory:
-"`bash
+```bash
 git clone https://github.com/username/movie-analysis-portfolio.git
 
    cd movie-analysis-portfolio
