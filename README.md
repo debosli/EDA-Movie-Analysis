@@ -44,9 +44,7 @@ Here are some examples of insights derived from the data:
 
 How to Run This Project
 1. Clone this repository:
-   "`bash
-   git clone https://github.com/username/movie-analysis-portfolio.git
-   ```
+   ```git clone https://github.com/username/movie-analysis-portfolio.git```
 2. Navigate to the project directory:
    "`bash
    cd movie-analysis-portfolio
