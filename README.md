@@ -46,14 +46,16 @@ How to Run This Project
 1. Clone this repository:
    ```git clone https://github.com/username/movie-analysis-portfolio.git```
 2. Navigate to the project directory:
-   "`bash
+"`bash
+git clone https://github.com/username/movie-analysis-portfolio.git
+
    cd movie-analysis-portfolio
    ```
-3. Install dependencies:
+4. Install dependencies:
    "`bash
    pip install -r requirements.txt
    ```
-4. Open the Jupyter Notebook:
+5. Open the Jupyter Notebook:
    "`bash
    jupyter notebook notebooks/movie_analysis.ipynb
    ```
