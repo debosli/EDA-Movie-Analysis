@@ -42,21 +42,21 @@ Here are some examples of insights derived from the data:
 3. Budget vs Revenue Relationship:
    - A robust positive correlation between budget and revenue was observed.
 
-How to Run This Project
+### **How to Run This Project**
 1. Clone this repository:
-   ```git clone https://github.com/username/movie-analysis-portfolio.git```
+   ```bash
+   git clone https://github.com/username/movie-analysis-portfolio.git
+   ```
 2. Navigate to the project directory:
-```bash
-git clone https://github.com/username/movie-analysis-portfolio.git
-
+   ```bash
    cd movie-analysis-portfolio
    ```
-4. Install dependencies:
-   "`bash
+3. Install dependencies:
+   ```bash
    pip install -r requirements.txt
    ```
-5. Open the Jupyter Notebook:
-   "`bash
+4. Open the Jupyter Notebook:
+   ```bash
    jupyter notebook notebooks/movie_analysis.ipynb
    ```
 
